@@ -1,0 +1,20 @@
+---
+title: "About"
+image: zach.jpg
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:zachary.yong@outlook.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zachary-yong/
+    - icon: github
+      text: Github
+      href: https://github.com/zach2y
+---
+
+I am a PhD graduate from Kanazawa University, Japan with expertise in cell and molecular biology. My research focus was to better understand the cell signaling pathways during inflammatory responses in the intestines. I enjoy finding solutions to research questions or technical problems.
+
+Currently mastering various tools in data science to improve my ability to gain insights into data and solve problems.

@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zachary Yong"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Portfolio
+      - about.qmd
+  site-url: "https://zach2y.github.io/portfolio_quarto-website/"
+
+format:
+  html:
+    theme: litera
+    fontsize: 0.95em
+    css: styles.css
+    toc: true
+
+editor: visual
+

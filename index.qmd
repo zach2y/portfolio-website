@@ -1,0 +1,84 @@
+---
+title: "Data Science Portfolio"
+subtitle: "Hello! I'm an aspiring data scientist with a background in medical science."
+---
+
+## 1. Next Word Prediction
+
+::: columns
+::: {.column width="50%"}
+Created an application that can predict the next word based on text provided.
+
+R \| Shiny \| NLP \| Language Modeling
+
+[View App](https://zach2y.shinyapps.io/NextWord/){.btn .btn-outline-dark} [View Report](https://rpubs.com/zach2y/920788){.btn .btn-outline-dark} [View Presentation](https://rpubs.com/zach2y/921721){.btn .btn-outline-dark}
+:::
+
+::: {.column width="50%"}
+::: {layout-ncol="2"}
+![](nextword-1.png){fig-align="center"}
+
+![](nextword-2.png){fig-align="center"}
+:::
+:::
+:::
+
+## 2. Wellness Tech Data Analysis
+
+::: columns
+::: {.column width="60%"}
+Prepare, process, analyze, and visualize data on how consumers use their smart devices. Then these insights are used to improve a health tracking app.
+
+R \| EDA \| Data Visualization \| Case Study
+
+[View Report](https://www.kaggle.com/code/zacyon/case-study-bellabeat){.btn .btn-outline-dark}
+:::
+
+::: {.column width="40%"}
+::: {layout-ncol="2"}
+![](wellness-1.png){fig-align="center"}
+
+![](wellness-2.png){fig-align="center"}
+:::
+:::
+:::
+
+## 3. World Health Statistics
+
+::: columns
+::: {.column width="60%"}
+An exploration of the health statistics of the world up to 2020.
+
+Python \| EDA \| Data Visualization \| Data Studio \| SQL
+
+[View Dashboard](https://datastudio.google.com/reporting/856c775b-e7b9-48f2-bdc4-530c8843e551/page/6NSbC?s=hMP7dymt1Ik){.btn .btn-outline-dark} [View EDA](https://colab.research.google.com/drive/18gmR7BUo7_BJwhvHAoRuv4bx_Il2nfI9?usp=sharing){.btn .btn-outline-dark}
+:::
+
+::: {.column width="40%"}
+::: {layout-ncol="2"}
+![](whs-1.png){fig-align="center"}
+
+![](whs-2.png){fig-align="center"}
+:::
+:::
+:::
+
+## 4. Predicting Weight Lifting Activity
+
+::: columns
+::: {.column width="55%"}
+Use data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.
+
+R \| EDA \| Data Visualization \| Machine Learning \| Classification
+
+[View Report](https://zach2y.github.io/PracticalMachineLearning-Project/PracMacLea_CourseProject.html){.btn .btn-outline-dark}
+:::
+
+::: {.column width="45%"}
+::: {layout-ncol="2"}
+![](weight-1.png){fig-align="center"}
+
+![](weight-2.png){fig-align="center"}
+:::
+:::
+:::
