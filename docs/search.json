@@ -33,12 +33,5 @@
     "title": "Data Science Portfolio",
     "section": "4. Predicting Weight Lifting Activity",
     "text": "4. Predicting Weight Lifting Activity\n\n\nUse data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.\nR | EDA | Data Visualization | Machine Learning | Classification\nView Report"
-  },
-  {
-    "objectID": "index.html#sentiment-analysis-for-hotel-reviews",
-    "href": "index.html#sentiment-analysis-for-hotel-reviews",
-    "title": "Data Science Portfolio",
-    "section": "5. Sentiment Analysis for Hotel Reviews",
-    "text": "5. Sentiment Analysis for Hotel Reviews\n\n\nExamine the the emotional tone of hotel reviews.\nPython | EDA | Data Visualization | NLP\nView Report"
   }
 ]
