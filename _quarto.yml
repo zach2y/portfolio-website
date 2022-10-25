@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Portfolio
       - about.qmd
-  site-url: "https://zach2y.github.io/portfolio_quarto-website/"
+  site-url: "https://zach2y.github.io/portfolio-website/"
 
 format:
   html:

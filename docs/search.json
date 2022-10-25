@@ -33,5 +33,12 @@
     "title": "Data Science Portfolio",
     "section": "4. Predicting Weight Lifting Activity",
     "text": "4. Predicting Weight Lifting Activity\n\n\nUse data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.\nR | EDA | Data Visualization | Machine Learning | Classification\nView Report"
+  },
+  {
+    "objectID": "index.html#covid-19-data-exploration",
+    "href": "index.html#covid-19-data-exploration",
+    "title": "Data Science Portfolio",
+    "section": "5. COVID-19 Data Exploration",
+    "text": "5. COVID-19 Data Exploration\n\n\nUse SQL Server to explore Malaysia COVID-19 data\nSQL | EDA\nView Report"
   }
 ]
