@@ -103,3 +103,23 @@ SQL \| EDA
 :::
 :::
 :::
+
+## 6. Tableau Dashboard: COVID-19 in Malaysia
+
+::: columns
+::: {.column width="55%"}
+Created a dashboard for analyzing data on COVID-19 in Malaysia.
+
+Tableau \| SQL \| Data Visualization
+
+[View Dashboard](https://public.tableau.com/app/profile/zachary.yong/viz/Covid-19inMalaysia_16667057911190/Dashboard1){.btn .btn-outline-dark}
+:::
+
+::: {.column width="45%"}
+::: {layout-ncol="2"}
+![](tableau-1.png){fig-align="center"}
+
+![](tableau-2.jpg){fig-align="center"}
+:::
+:::
+:::
