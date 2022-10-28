@@ -47,5 +47,12 @@
     "title": "Data Science Portfolio",
     "section": "6. Tableau Dashboard: COVID-19 in Malaysia",
     "text": "6. Tableau Dashboard: COVID-19 in Malaysia\n\n\nCreated a dashboard for analyzing data on COVID-19 in Malaysia.\nTableau | SQL | Data Visualization\nView Dashboard"
+  },
+  {
+    "objectID": "index.html#sql-data-exploration-covid-19",
+    "href": "index.html#sql-data-exploration-covid-19",
+    "title": "Data Science Portfolio",
+    "section": "5. SQL Data Exploration: COVID-19",
+    "text": "5. SQL Data Exploration: COVID-19\n\n\nUse SQL Server to explore Malaysia COVID-19 data. Skills used are Joins, CTE’s, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.\nSQL | EDA\nView Report"
   }
 ]

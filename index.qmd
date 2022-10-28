@@ -83,21 +83,20 @@ R \| EDA \| Data Visualization \| Machine Learning \| Classification
 :::
 :::
 
-## 5. COVID-19 Data Exploration
+## 5. SQL Data Exploration: COVID-19
 
 ::: columns
 ::: {.column width="55%"}
-Use SQL Server to explore Malaysia COVID-19 data
+Use SQL Server to explore Malaysia COVID-19 data. Skills used are Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.
 
-SQL \| EDA 
+SQL \| EDA
 
 [View Report](https://github.com/zach2y/PortfolioProjects/blob/main/COVID-Data-Exploration/COVID-Data-Exploration.sql){.btn .btn-outline-dark}
 :::
 
 ::: {.column width="45%"}
 ::: {layout-ncol="2"}
-![](covid-1.jpg){fig-align="center"}
-<!--image source. https://www.fda.gov/files/Coronavirus_3D_illustration_by_CDC_1600x900.png --> 
+![](covid-1.jpg){fig-align="center"} <!--image source. https://www.fda.gov/files/Coronavirus_3D_illustration_by_CDC_1600x900.png -->
 
 ![](covid-2.jpg){fig-align="center"}
 :::
