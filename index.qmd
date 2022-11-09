@@ -3,87 +3,27 @@ title: "Data Science Portfolio"
 subtitle: "Hello! I'm an aspiring data scientist with a background in medical science."
 ---
 
-## 1. Next Word Prediction
-
-::: columns
-::: {.column width="50%"}
-Created an application that can predict the next word based on text provided.
-
-R \| Shiny \| NLP \| Language Modeling
-
-[View App](https://zach2y.shinyapps.io/NextWord/){.btn .btn-outline-dark} [View Report](https://rpubs.com/zach2y/920788){.btn .btn-outline-dark} [View Presentation](https://rpubs.com/zach2y/921721){.btn .btn-outline-dark}
-:::
-
-::: {.column width="50%"}
-::: {layout-ncol="2"}
-![](nextword-1.png){fig-align="center"}
-
-![](nextword-2.png){fig-align="center"}
-:::
-:::
-:::
-
-## 2. Wellness Tech Data Analysis
-
-::: columns
-::: {.column width="60%"}
-Prepare, process, analyze, and visualize data on how consumers use their smart devices. Then these insights are used to improve a health tracking app.
-
-R \| EDA \| Data Visualization \| Case Study
-
-[View Report](https://www.kaggle.com/code/zacyon/case-study-bellabeat){.btn .btn-outline-dark}
-:::
-
-::: {.column width="40%"}
-::: {layout-ncol="2"}
-![](wellness-1.png){fig-align="center"}
-
-![](wellness-2.png){fig-align="center"}
-:::
-:::
-:::
-
-## 3. World Health Statistics
-
-::: columns
-::: {.column width="60%"}
-An exploration of the health statistics of the world up to 2020.
-
-Python \| EDA \| Data Visualization \| Data Studio \| SQL
-
-[View Dashboard](https://datastudio.google.com/reporting/856c775b-e7b9-48f2-bdc4-530c8843e551/page/6NSbC?s=hMP7dymt1Ik){.btn .btn-outline-dark} [View EDA](https://colab.research.google.com/drive/18gmR7BUo7_BJwhvHAoRuv4bx_Il2nfI9?usp=sharing){.btn .btn-outline-dark}
-:::
-
-::: {.column width="40%"}
-::: {layout-ncol="2"}
-![](whs-1.png){fig-align="center"}
-
-![](whs-2.png){fig-align="center"}
-:::
-:::
-:::
-
-## 4. Predicting Weight Lifting Activity
+## 1. Tableau Dashboard: COVID-19 in Malaysia
 
 ::: columns
 ::: {.column width="55%"}
-Use data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.
+Created a dashboard for analyzing data on COVID-19 in Malaysia.
 
-R \| EDA \| Data Visualization \| Machine Learning \| Classification
+Tableau \| SQL \| Data Visualization
 
-[View Report](https://zach2y.github.io/PracticalMachineLearning-Project/PracMacLea_CourseProject.html){.btn .btn-outline-dark}
+[View Dashboard](https://public.tableau.com/app/profile/zachary.yong/viz/Covid-19inMalaysia_16667057911190/Dashboard1){.btn .btn-outline-dark}
 :::
 
 ::: {.column width="45%"}
 ::: {layout-ncol="2"}
-![](weight-1.png){fig-align="center"}
+![](tableau-1.png){fig-align="center"}
 
-![](weight-2.png){fig-align="center"}
+![](tableau-2.jpg){fig-align="center"}
 :::
 :::
 :::
 
-## 5. SQL Data Exploration: COVID-19
+## 2. SQL Data Exploration: COVID-19
 
 ::: columns
 ::: {.column width="55%"}
@@ -103,22 +43,86 @@ SQL \| EDA
 :::
 :::
 
-## 6. Tableau Dashboard: COVID-19 in Malaysia
+## 3. Wellness Tech Data Analysis
+
+::: columns
+::: {.column width="60%"}
+Prepare, process, analyze, and visualize data on how consumers use their smart devices. Then these insights are used to improve a health tracking app.
+
+R \| EDA \| Data Visualization \| Case Study
+
+[View Report](https://www.kaggle.com/code/zacyon/case-study-bellabeat){.btn .btn-outline-dark}
+:::
+
+::: {.column width="40%"}
+::: {layout-ncol="2"}
+![](wellness-1.png){fig-align="center"}
+
+![](wellness-2.png){fig-align="center"}
+:::
+:::
+:::
+
+## 4. Next Word Prediction
+
+::: columns
+::: {.column width="50%"}
+Created an application that can predict the next word based on text provided.
+
+R \| Shiny \| NLP \| Language Modeling
+
+[View App](https://zach2y.shinyapps.io/NextWord/){.btn .btn-outline-dark} [View Report](https://rpubs.com/zach2y/920788){.btn .btn-outline-dark} [View Presentation](https://rpubs.com/zach2y/921721){.btn .btn-outline-dark}
+:::
+
+::: {.column width="50%"}
+::: {layout-ncol="2"}
+![](nextword-1.png){fig-align="center"}
+
+![](nextword-2.png){fig-align="center"}
+:::
+:::
+:::
+
+## 5. World Health Statistics
+
+::: columns
+::: {.column width="60%"}
+An exploration of the health statistics of the world up to 2020.
+
+Python \| EDA \| Data Visualization \| Data Studio \| SQL
+
+[View Dashboard](https://datastudio.google.com/reporting/856c775b-e7b9-48f2-bdc4-530c8843e551/page/6NSbC?s=hMP7dymt1Ik){.btn .btn-outline-dark} [View EDA](https://colab.research.google.com/drive/18gmR7BUo7_BJwhvHAoRuv4bx_Il2nfI9?usp=sharing){.btn .btn-outline-dark}
+:::
+
+::: {.column width="40%"}
+::: {layout-ncol="2"}
+![](whs-1.png){fig-align="center"}
+
+![](whs-2.png){fig-align="center"}
+:::
+:::
+:::
+
+## 6. Predicting Weight Lifting Activity
 
 ::: columns
 ::: {.column width="55%"}
-Created a dashboard for analyzing data on COVID-19 in Malaysia.
+Use data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.
 
-Tableau \| SQL \| Data Visualization
+R \| EDA \| Data Visualization \| Machine Learning \| Classification
 
-[View Dashboard](https://public.tableau.com/app/profile/zachary.yong/viz/Covid-19inMalaysia_16667057911190/Dashboard1){.btn .btn-outline-dark}
+[View Report](https://zach2y.github.io/PracticalMachineLearning-Project/PracMacLea_CourseProject.html){.btn .btn-outline-dark}
 :::
 
 ::: {.column width="45%"}
 ::: {layout-ncol="2"}
-![](tableau-1.png){fig-align="center"}
+![](weight-1.png){fig-align="center"}
 
-![](tableau-2.jpg){fig-align="center"}
+![](weight-2.png){fig-align="center"}
 :::
 :::
 :::
+
+
+
+

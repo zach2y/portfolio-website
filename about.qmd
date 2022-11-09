@@ -15,6 +15,26 @@ about:
       href: https://github.com/zach2y
 ---
 
-I am a PhD graduate from Kanazawa University, Japan with expertise in cell and molecular biology. My research focus was to better understand the cell signaling pathways during inflammatory responses in the intestines. I enjoy finding solutions to research questions or technical problems.
+I am a PhD graduate from Kanazawa University, Japan with expertise in cell and molecular biology. My research focus was to better understand the cell signaling pathways during inflammatory responses in the intestines. I enjoy finding solutions to research questions or technical problems.Currently mastering various tools in data science to improve my ability to gain insights into data and solve problems.
 
-Currently mastering various tools in data science to improve my ability to gain insights into data and solve problems.
+## Certifications
+
+Google Data Analytics Certificate (Coursera) \| 2022
+
+Data Science Specialization from John Hopkins (Coursera) \| 2022
+
+Data Science 360 (LEAD) \| 2021
+
+## Education
+
+**Kanazawa University** \| MEXT Scholar \| Japan
+
+Ph.D. in Medical Sciences \| 2021
+
+**University of Malaya** \| Malaysia
+
+MDSc in Molecular Oral Oncology \| 2015
+
+**University of Malaya** \| Malaysia
+
+BSc in Genetics and Molecular Biology \| 2009

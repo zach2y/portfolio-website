@@ -4,55 +4,62 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Currently mastering various tools in data science to improve my ability to gain insights into data and solve problems."
+    "text": "I am a PhD graduate from Kanazawa University, Japan with expertise in cell and molecular biology. My research focus was to better understand the cell signaling pathways during inflammatory responses in the intestines. I enjoy finding solutions to research questions or technical problems.Currently mastering various tools in data science to improve my ability to gain insights into data and solve problems."
+  },
+  {
+    "objectID": "about.html#certifications",
+    "href": "about.html#certifications",
+    "title": "About",
+    "section": "Certifications",
+    "text": "Certifications\nGoogle Data Analytics Certificate (Coursera) | 2022\nData Science Specialization from John Hopkins (Coursera) | 2022\nData Science 360 (LEAD) | 2021"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nKanazawa University | MEXT Scholar | Japan\nPh.D. in Medical Sciences | 2021\nUniversity of Malaya | Malaysia\nMDSc in Molecular Oral Oncology | 2015\nUniversity of Malaya | Malaysia\nBSc in Genetics and Molecular Biology | 2009"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Science Portfolio",
     "section": "",
-    "text": "Created an application that can predict the next word based on text provided.\nR | Shiny | NLP | Language Modeling\nView App View Report View Presentation"
-  },
-  {
-    "objectID": "index.html#wellness-tech-data-analysis",
-    "href": "index.html#wellness-tech-data-analysis",
-    "title": "Data Science Portfolio",
-    "section": "2. Wellness Tech Data Analysis",
-    "text": "2. Wellness Tech Data Analysis\n\n\nPrepare, process, analyze, and visualize data on how consumers use their smart devices. Then these insights are used to improve a health tracking app.\nR | EDA | Data Visualization | Case Study\nView Report"
-  },
-  {
-    "objectID": "index.html#world-health-statistics",
-    "href": "index.html#world-health-statistics",
-    "title": "Data Science Portfolio",
-    "section": "3. World Health Statistics",
-    "text": "3. World Health Statistics\n\n\nAn exploration of the health statistics of the world up to 2020.\nPython | EDA | Data Visualization | Data Studio | SQL\nView Dashboard View EDA"
-  },
-  {
-    "objectID": "index.html#predicting-weight-lifting-activity",
-    "href": "index.html#predicting-weight-lifting-activity",
-    "title": "Data Science Portfolio",
-    "section": "4. Predicting Weight Lifting Activity",
-    "text": "4. Predicting Weight Lifting Activity\n\n\nUse data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.\nR | EDA | Data Visualization | Machine Learning | Classification\nView Report"
-  },
-  {
-    "objectID": "index.html#covid-19-data-exploration",
-    "href": "index.html#covid-19-data-exploration",
-    "title": "Data Science Portfolio",
-    "section": "5. COVID-19 Data Exploration",
-    "text": "5. COVID-19 Data Exploration\n\n\nUse SQL Server to explore Malaysia COVID-19 data\nSQL | EDA\nView Report"
-  },
-  {
-    "objectID": "index.html#tableau-dashboard-covid-19-in-malaysia",
-    "href": "index.html#tableau-dashboard-covid-19-in-malaysia",
-    "title": "Data Science Portfolio",
-    "section": "6. Tableau Dashboard: COVID-19 in Malaysia",
-    "text": "6. Tableau Dashboard: COVID-19 in Malaysia\n\n\nCreated a dashboard for analyzing data on COVID-19 in Malaysia.\nTableau | SQL | Data Visualization\nView Dashboard"
+    "text": "Created a dashboard for analyzing data on COVID-19 in Malaysia.\nTableau | SQL | Data Visualization\nView Dashboard"
   },
   {
     "objectID": "index.html#sql-data-exploration-covid-19",
     "href": "index.html#sql-data-exploration-covid-19",
     "title": "Data Science Portfolio",
-    "section": "5. SQL Data Exploration: COVID-19",
-    "text": "5. SQL Data Exploration: COVID-19\n\n\nUse SQL Server to explore Malaysia COVID-19 data. Skills used are Joins, CTE’s, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.\nSQL | EDA\nView Report"
+    "section": "2. SQL Data Exploration: COVID-19",
+    "text": "2. SQL Data Exploration: COVID-19\n\n\nUse SQL Server to explore Malaysia COVID-19 data. Skills used are Joins, CTE’s, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types.\nSQL | EDA\nView Report"
+  },
+  {
+    "objectID": "index.html#wellness-tech-data-analysis",
+    "href": "index.html#wellness-tech-data-analysis",
+    "title": "Data Science Portfolio",
+    "section": "3. Wellness Tech Data Analysis",
+    "text": "3. Wellness Tech Data Analysis\n\n\nPrepare, process, analyze, and visualize data on how consumers use their smart devices. Then these insights are used to improve a health tracking app.\nR | EDA | Data Visualization | Case Study\nView Report"
+  },
+  {
+    "objectID": "index.html#next-word-prediction",
+    "href": "index.html#next-word-prediction",
+    "title": "Data Science Portfolio",
+    "section": "4. Next Word Prediction",
+    "text": "4. Next Word Prediction\n\n\nCreated an application that can predict the next word based on text provided.\nR | Shiny | NLP | Language Modeling\nView App View Report View Presentation"
+  },
+  {
+    "objectID": "index.html#world-health-statistics",
+    "href": "index.html#world-health-statistics",
+    "title": "Data Science Portfolio",
+    "section": "5. World Health Statistics",
+    "text": "5. World Health Statistics\n\n\nAn exploration of the health statistics of the world up to 2020.\nPython | EDA | Data Visualization | Data Studio | SQL\nView Dashboard View EDA"
+  },
+  {
+    "objectID": "index.html#predicting-weight-lifting-activity",
+    "href": "index.html#predicting-weight-lifting-activity",
+    "title": "Data Science Portfolio",
+    "section": "6. Predicting Weight Lifting Activity",
+    "text": "6. Predicting Weight Lifting Activity\n\n\nUse data from accelerometers on the belt, forearm, arm, and dumbell to predict whether participants perform barbell lifts correctly.\nR | EDA | Data Visualization | Machine Learning | Classification\nView Report"
   }
 ]
